@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Media Aluno</string>
+    <string name="button">Button</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="digite_a_1_nota">DIGITE A 1° NOTA</string>
+    <string name="digite_a_2_nota">DIGITE A 2º NOTA</string>
+    <string name="digite_a_3_nota">DIGITE A 3º NOTA</string>
+    <string name="digite_o_nome_do_aluno">DIGITE O NOME DO ALUNO</string>
+    <string name="recupera_o_do_aluno">RECUPERAÇÃO DO ALUNO</string>
+    <string name="digite_a_nota">DIGITE A NOTA</string>
+    <string name="quot_um_pa_s_se_faz_com_homens_e_livros_quot_monteiro_lobado">\"Um país se faz com homens e livros\" Monteiro Lobado</string>
+    <string name="create_by_shift_ky_developer">CREATE BY SHIFT-KY DEVELOPER</string>
+</resources>
